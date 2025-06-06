@@ -12,7 +12,7 @@ public class Sbob extends Actor
      * Act - do whatever the Sbob wants to do. This method is called whenever
      * the 'Act' or 'Run' button gets pressed in the environment.
      */
-    public int gold = 0;
+    public int gold = 10;
     public boolean trapped = false;
     public void act()
     {
