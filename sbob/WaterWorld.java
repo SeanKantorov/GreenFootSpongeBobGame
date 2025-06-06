@@ -4,8 +4,8 @@ import java.util.Random;
 /**
  * Write a description of class WaterWorld here.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author Sean Kantorov 
+ * @version 6/6/25
  */
 public class WaterWorld extends World
 {
